@@ -7,3 +7,6 @@
 [Click here for more information][website]
 
 [website]: https://public.tableau.com/app/profile/ergyun.hasan5433/viz/ProfitandSalesInsights/ProfitandSalesInsights
+
+
+![sales](https://github.com/ergyunhasan/Profit_and_Sales_Insights_Tableau/assets/121507597/9ab69267-f74a-45da-af0c-71fbe18d1c76)
