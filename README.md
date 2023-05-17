@@ -7,3 +7,7 @@
 [https://public.tableau.com/app/profile/ergyun.hasan5433/viz/ProfitandSalesInsights/ProfitandSalesInsights]
 
 [link] :https://public.tableau.com/app/profile/ergyun.hasan5433/viz/ProfitandSalesInsights/ProfitandSalesInsights
+
+[Click here for more information][website]
+
+[website]: https://example.com
